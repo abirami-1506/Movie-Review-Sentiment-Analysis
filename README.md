@@ -1,4 +1,5 @@
 # 🎬 Movie Review Sentiment Analysis
+**LIVE DEMO:** Click Here [https://movie-review-nlp-project.streamlit.app/]
 
 A Natural Language Processing (NLP) project that classifies IMDB movie reviews as **Positive** or **Negative** using a Logistic Regression model with TF-IDF vectorization. Includes an interactive **Streamlit** web app for real-time predictions.
 
